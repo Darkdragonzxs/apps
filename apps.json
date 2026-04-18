@@ -1,0 +1,87 @@
+[
+  {
+    "title": "EmulatorJS",
+    "file_name": "emujs.html",
+    "thumb": "emujs.png"
+  },
+  {
+    "title": "JSPS1",
+    "file_name": "jsps1.html",
+    "thumb": "ps1js.png"
+  },
+  {
+    "title": "Ruffle",
+    "file_name": "ruffle.html",
+    "thumb": "ruffle.png"
+  },
+  {
+    "title": "Scratch",
+    "file_name": "scratch.html",
+    "thumb": "scratch.png"
+  },
+  {
+    "title": "WeaveSilk",
+    "file_name": "silk.html",
+    "thumb": "silk.png"
+  },
+  {
+    "title": "Soundboard",
+    "file_name": "soundboard.html",
+    "thumb": "soundboard.png"
+  },
+  {
+    "title": "DOS WASM X",
+    "file_name": "doswasmx.html",
+    "thumb": "dos.webp"
+  },
+  {
+    "title": "Code Editor",
+    "file_name": "code.html",
+    "thumb": "code.png"
+  },
+  {
+    "title": "Discord",
+    "website": "https://discord.gg",
+    "thumb": "discord.png"
+  },
+  {
+    "title": "Snapchat",
+    "website": "https://snapchat.com",
+    "thumb": "snap.png"
+  },
+  {
+    "title": "Movies",
+    "website": "https://watch.spencerdevs.xyz",
+    "thumb": "movies.png"
+  },
+  {
+    "title": "Instagram",
+    "website": "https://instagram.com",
+    "thumb": "insta.png"
+  },
+  {
+    "title": "Tikok",
+    "website": "https://tiktok.com",
+    "thumb": "tiktok.webp"
+  },
+  {
+    "title": "Twitch",
+    "website": "https://twitch.tv",
+    "thumb": "twitch.webp"
+  },
+  {
+    "title": "Soundcloud",
+    "website": "https://souncloud.com",
+    "thumb": "soundcloud.avif"
+  },
+  {
+    "title": "Archive of our own",
+    "website": "https://archiveofourown.org",
+    "thumb": "ao3.png"
+  },
+  {
+    "title": "Reddit",
+    "website": "https://reddit.com",
+    "thumb": "reddit.webp"
+  }
+]
